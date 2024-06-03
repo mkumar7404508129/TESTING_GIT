@@ -1,2 +1,14 @@
 shekhar.txt
+infinito0
+infinito0
 hi bro i am crack
+=======
+hi bro i am shekhar verma 
+ main
+=======
+ HEAD
+hi bro i am shekhar verma 
+=======
+hi bro i am crack
+ origin/infinito0
+ main
